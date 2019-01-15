@@ -1,0 +1,14 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column2 {
+  width: 300px;
+  float: middle;
+}
+
+.column3 {
+  width: 300px;
+  float: right;
+}
